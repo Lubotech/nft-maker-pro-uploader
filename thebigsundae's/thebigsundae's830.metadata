@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae630": {
-        "name": "thebigsundae's630",
-        "image": "ipfs://QmQPMkixGLqWpaR2c9t2xTrPEJHucraXMgYm2ojBTECZtb",
+      "thebigsundae830": {
+        "name": "thebigsundae's830",
+        "image": "ipfs://QmawrVsgq74ivyfiDiQ7bZvFfcy23WSBrPQBNUirxSkkCV",
         "mediaType": "image/png",
-        "description": "630",
+        "description": "830",
         "files": [
           {
-            "name": "thebigsundae's630",
+            "name": "thebigsundae's830",
             "mediaType": "image/png",
-            "src": "ipfs://QmQPMkixGLqWpaR2c9t2xTrPEJHucraXMgYm2ojBTECZtb"
+            "src": "ipfs://QmawrVsgq74ivyfiDiQ7bZvFfcy23WSBrPQBNUirxSkkCV"
           }
         ],
         "sundae": "Sundae Brunch",
-  "background": "bc630",
+  "background": "bc830",
   "sexuality": "female",
   "flavor": "Butterfinger candy"
       }
@@ -22,3 +22,5 @@
     "version": "1.0"
   }
 }
+
+
