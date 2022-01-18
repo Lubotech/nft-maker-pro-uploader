@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae608": {
-        "name": "thebigsundae608",
-        "image": "ipfs://QmVi4YLs9wfRVUpfnVBJMCWkwMNfjRhZXzi6tnYP6y2hhi",
+      "thebigsundae808": {
+        "name": "thebigsundae808",
+        "image": "ipfs://QmbJa7oJGFv6vYFSsu66HRjy3BqUBVBpAZU9j2JY92JW7c",
         "mediaType": "image/png",
-        "description": "608",
+        "description": "808",
         "files": [
           {
-            "name": "thebigsundae's608",
+            "name": "thebigsundae's808",
             "mediaType": "image/png",
-            "src": "ipfs://QmVi4YLs9wfRVUpfnVBJMCWkwMNfjRhZXzi6tnYP6y2hhi"
+            "src": "ipfs://QmbJa7oJGFv6vYFSsu66HRjy3BqUBVBpAZU9j2JY92JW7c"
           }
         ],
         "sundae": "Crunchy Bourbon ",
-  "background": "bc608",
+  "background": "bc808",
   "sexuality": "female",
   "flavor": "bourbon"
       }
@@ -22,4 +22,5 @@
     "version": "1.0"
   }
 }
+
 
