@@ -1,20 +1,20 @@
 {
   "721": {
     "6be221e45858b912b1efb4d79d6c239f24239ef73e99945e6cc33ada": {
-      "thebigsundae632": {
-        "name": "thebigsundae's632",
-        "image": "ipfs://QmTuuyzDTiADN6UJi8dxypse6dKu3t396PbAtDc7rpH9MH",
+      "thebigsundae832": {
+        "name": "thebigsundae's832",
+        "image": "ipfs://QmXtEQHB8fcqzttHPGBcTuCSaYj9Q19FCMWpLMjj6UpTPT",
         "mediaType": "image/png",
-        "description": "632",
+        "description": "832",
         "files": [
           {
-            "name": "thebigsundae's632",
+            "name": "thebigsundae's832",
             "mediaType": "image/png",
-            "src": "ipfs://QmTuuyzDTiADN6UJi8dxypse6dKu3t396PbAtDc7rpH9MH"
+            "src": "ipfs://QmXtEQHB8fcqzttHPGBcTuCSaYj9Q19FCMWpLMjj6UpTPT"
           }
         ],
         "sundae": "MINT BROWNIE",
-  "background": "bcr632",
+  "background": "bcr832",
   "sexuality": "female",
   "flavor": "Ooey Gooey"
       }
@@ -22,3 +22,5 @@
     "version": "1.0"
   }
 }
+
+
